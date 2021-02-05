@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.127.0](https://www.github.com/googleapis/java-bigquery/compare/v1.126.6...v1.127.0) (2021-02-05)
+
+
+### Features
+
+* add reservation usage in job statistics ([#1018](https://www.github.com/googleapis/java-bigquery/issues/1018)) ([49cbb0f](https://www.github.com/googleapis/java-bigquery/commit/49cbb0f16ac3236e2f87b44570994d7235485902))
+
+
+### Documentation
+
+* **samples:** fix sample issue ([#1086](https://www.github.com/googleapis/java-bigquery/issues/1086)) ([ef669df](https://www.github.com/googleapis/java-bigquery/commit/ef669df3c97981664615f0d752f8d988d08c00c9))
+* **samples:** Update region tag for create table external hive partitioning ([#1079](https://www.github.com/googleapis/java-bigquery/issues/1079)) ([50bf783](https://www.github.com/googleapis/java-bigquery/commit/50bf7831d9a7fe40ae08894d50fd2c8ae974f05a))
+
 ### [1.126.6](https://www.github.com/googleapis/java-bigquery/compare/v1.126.5...v1.126.6) (2021-01-13)
 
 
